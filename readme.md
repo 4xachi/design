@@ -1,4 +1,3 @@
-![Repository Banner](headerimage.png)
 
 ## Table of Contents
 
